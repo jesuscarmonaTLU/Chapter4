@@ -64,7 +64,7 @@ summary(pcs)
 
 pcs <- prcomp(na.omit(cereals.df[,-c(1:3)])) 
 summary(pcs)
-pcs.cor$rot[,1:4]
+pcs$rot[,1:4]
 
 # Compute PCs on all dimensions... omit the first three columns
 # this time we standardize all the values.
