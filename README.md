@@ -1,29 +1,28 @@
 # Chapter4
 Data Set Description
-This dataset is contained in the file `cereal.csv'
 
-This dataset contains information on 77 different breakfast cereals. The features are
+This dataset contains information on 77 different breakfast cereals. The features are </br>
 
-Cereal Name
-Manufacturer
-A -> American Home Food Products
-G -> General Mills
-K -> Kelloggs
-N -> Nabisco
-P -> Post
-Q -> Quaker Oats
-R -> Ralston Purina
-Type (C -> Cold, H -> Hot )
-Calories (per serving)
-Protein (in grams)
-Fat (in grams)
-Sodium (in milligrams)
-Fiber (in grams of dietary fiber)
-Carbo (grams of complex carbohydrates)
-Sugars (in grams)
-Potass (milligrams of potassium)
-Vitamins (possible values are 0, 25 or 100 indicating percent of FDA recommended vitamins and minerals)
-Shelf ( display shelf with possible values 1, 2, or 3 counting from floor)
-Weight (weight of one serving in ounces)
-Cups (number of cups in one serving)
-Rating (Consumer ratings of cereal from 0 to 100)
+Cereal Name</br>
+Manufacturer</br>
+A -> American Home Food Products</br>
+G -> General Mills</br>
+K -> Kelloggs</br>
+N -> Nabisco</br>
+P -> Post</br>
+Q -> Quaker Oats</br>
+R -> Ralston Purina</br>
+Type (C -> Cold, H -> Hot )</br>
+Calories (per serving)</br>
+Protein (in grams)</br>
+Fat (in grams)</br>
+Sodium (in milligrams)</br>
+Fiber (in grams of dietary fiber)</br>
+Carbo (grams of complex carbohydrates)</br>
+Sugars (in grams)</br>
+Potass (milligrams of potassium)</br>
+Vitamins (possible values are 0, 25 or 100 indicating percent of FDA recommended vitamins and minerals)</br>
+Shelf ( display shelf with possible values 1, 2, or 3 counting from floor)</br>
+Weight (weight of one serving in ounces)</br>
+Cups (number of cups in one serving)</br>
+Rating (Consumer ratings of cereal from 0 to 100)</br>
