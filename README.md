@@ -11,7 +11,8 @@ Manufacturer</br>
 * N -> Nabisco
 * P -> Post
 * Q -> Quaker Oats
-* R -> Ralston Purina
+* R -> Ralston Purina </br>
+
 Type (C -> Cold, H -> Hot )</br>
 Calories (per serving)</br>
 Protein (in grams)</br>
