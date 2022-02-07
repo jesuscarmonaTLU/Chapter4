@@ -5,13 +5,13 @@ This dataset contains information on 77 different breakfast cereals. The feature
 
 Cereal Name</br>
 Manufacturer</br>
-A -> American Home Food Products</br>
-G -> General Mills</br>
-K -> Kelloggs</br>
-N -> Nabisco</br>
-P -> Post</br>
-Q -> Quaker Oats</br>
-R -> Ralston Purina</br>
+* A -> American Home Food Products
+* G -> General Mills
+* K -> Kelloggs
+* N -> Nabisco
+* P -> Post
+* Q -> Quaker Oats
+* R -> Ralston Purina
 Type (C -> Cold, H -> Hot )</br>
 Calories (per serving)</br>
 Protein (in grams)</br>
